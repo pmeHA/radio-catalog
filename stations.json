@@ -1,17 +1,81 @@
 {
-    "version": 3,
-    "stations": [
-        {
-            "id": "38640FC2-FE1A-4BB9-BDBA-DEF7695E5FF3",
-            "name": "Best of Rock FM",
-            "streamURL": "https://bestofrockfm.stream.vip/party/mp3-256/",
-            "logoURL": null
-        },
-        {
-            "id": "77B7D9D2-F7C0-4DD4-8793-BB42D57657E8",
-            "name": "UPLIFTING TRANCE-TEST",
-            "streamURL": "https://stream.technolovers.fm/uplifting-trance",
-            "logoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_cKTvegxmLOwy0DoGahqP40oH8ToSG-Or3ofqlhehw&s"
-        }
-    ]
+  "stations" : [
+    {
+      "id" : "EF6FABE3-0871-45C8-B098-AF5025B6A0BB",
+      "name" : "Capital Liverpool",
+      "streamURL" : "https://media-ice.musicradio.com/CapitalLiverpoolMP3"
+    },
+    {
+      "id" : "BCB34497-8F2E-45B6-8CD8-B2D573568B8A",
+      "name" : "Capital Dance",
+      "streamURL" : "https://media-ice.musicradio.com/CapitalDanceMP3"
+    },
+    {
+      "id" : "D1C16E9E-041A-40C0-AE32-5F4C1011254A",
+      "name" : "Capital Anthems",
+      "streamURL" : "https://media-ice.musicradio.com/CapitalAnthemsMP3"
+    },
+    {
+      "id" : "ED39A8FB-4583-433D-892D-22F4052857BA",
+      "name" : "Rádio Expres",
+      "streamURL" : "https://stream.bauermedia.sk/expres-hi.mp3"
+    },
+    {
+      "id" : "18BEC1CA-645D-430A-A711-3B27AF67BF41",
+      "name" : "Europa 2",
+      "streamURL" : "https://stream.bauermedia.sk/europa2-hi.mp3"
+    },
+    {
+      "id" : "E34695C5-0316-4470-A3AE-806D7AF2FF94",
+      "name" : "Rock Radio",
+      "streamURL" : "https://29043.live.streamtheworld.com/ROCK_RADIO.aac"
+    },
+    {
+      "id" : "2E67829A-6FAF-4C33-9F6D-43479C6D1F8B",
+      "name" : "FUN Radio Live",
+      "streamURL" : "https://stream.funradio.sk:8000/fun128.mp3"
+    },
+    {
+      "id" : "947BDA4C-9796-435D-A831-F554522A3721",
+      "name" : "FUN Radio Leto",
+      "streamURL" : "https://stream.funradio.sk:8000/summer128.mp3"
+    },
+    {
+      "id" : "D043C79E-B8E7-4F35-BDE5-EC4E18CD0FF0",
+      "name" : "FUN Radio Dance",
+      "streamURL" : "https://stream.funradio.sk:8000/dance128.mp3"
+    },
+    {
+      "id" : "92C0C708-A581-44E6-8EDB-045A3D9A947B",
+      "name" : "BB FM",
+      "streamURL" : "https://stream.bbfm.sk/bbfm128.mp3"
+    },
+    {
+      "id" : "D1F6A8BD-5AC2-46C3-BA7E-ECDD35E86F27",
+      "name" : "Rádio ROCK",
+      "streamURL" : "https://api.radiorock.sk/stream/hi"
+    },
+    {
+      "id" : "0B4745B8-B142-477D-B19A-DDC19F9A28D6",
+      "name" : "Hitrádio Černá Hora",
+      "streamURL" : "https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_CERNAHORA.aac?gdpr=0"
+    },
+    {
+      "id" : "C63D3018-E0B0-4B78-95B5-66A984E780B9",
+      "name" : "Hitrádio PopRock",
+      "streamURL" : "https://ice2.radia.cz/hitpoprock128.aac"
+    },
+    {
+      "id" : "38640FC2-FE1A-4BB9-BDBA-DEF7695E5FF3",
+      "name" : "Best of Rock FM",
+      "streamURL" : "https://bestofrockfm.stream.vip/party/mp3-256/"
+    },
+    {
+      "id" : "77B7D9D2-F7C0-4DD4-8793-BB42D57657E8",
+      "logoURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_cKTvegxmLOwy0DoGahqP40oH8ToSG-Or3ofqlhehw&s",
+      "name" : "UPLIFTING TRANCE-TEST",
+      "streamURL" : "https://stream.technolovers.fm/uplifting-trance"
+    }
+  ],
+  "version" : 10
 }
