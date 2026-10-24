@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "stations": [
+        {
+            "id": "38640FC2-FE1A-4BB9-BDBA-DEF7695E5FF3",
+            "name": "Best of Rock FM",
+            "streamURL": "https://bestofrockfm.stream.vip/party/mp3-256/",
+            "logoURL": null
+        },
+        {
+            "id": "77B7D9D2-F7C0-4DD4-8793-BB42D57657E8",
+            "name": "UPLIFTING TRANCE",
+            "streamURL": "https://stream.technolovers.fm/uplifting-trance",
+            "logoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_cKTvegxmLOwy0DoGahqP40oH8ToSG-Or3ofqlhehw&s"
+        }
+    ]
+}
