@@ -75,16 +75,6 @@
       "logoURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_cKTvegxmLOwy0DoGahqP40oH8ToSG-Or3ofqlhehw&s",
       "name" : "UPLIFTING TRANCE",
       "streamURL" : "https://stream.technolovers.fm/uplifting-trance"
-    },
-    {
-      "id" : "4D876F30-7497-49E5-9379-359D45296762",
-      "name" : "TEST1",
-      "streamURL" : "https://stream.technolovers.fm/uplifting-trance"
-    },
-    {
-      "id" : "F8C41080-2804-480A-934A-28D8858548EE",
-      "name" : "TEST2",
-      "streamURL" : "https://stream.technolovers.fm/uplifting-trance"
     }
   ],
   "version" : 10
